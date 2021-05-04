@@ -19,4 +19,3 @@ https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-bui
 
 ![image](https://user-images.githubusercontent.com/37068938/116997058-9525d800-acdc-11eb-9220-ec6cf4e57e0d.png)
 
-![image](https://user-images.githubusercontent.com/37068938/116997203-c900fd80-acdc-11eb-9b7a-3826f1197b57.png)
